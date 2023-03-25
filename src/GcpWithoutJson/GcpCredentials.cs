@@ -1,4 +1,5 @@
 using System.Text.Json.Serialization;
+namespace GcpWithoutJson;
 public class GCPCredentials
 {
     [JsonPropertyName("type")]
