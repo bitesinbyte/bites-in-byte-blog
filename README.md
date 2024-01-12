@@ -7,6 +7,7 @@ Each subdirectory contains code related to a specific blog post.
 
 ### Code Examples
 - [GCP Authentication Without JSON file](https://github.com/manishtiwari25/bites-in-byte-blog/tree/main/src/GcpWithoutJson)
+- [OData Benchmark](https://github.com/manishtiwari25/bites-in-byte-blog/tree/main/src/ODataBenchmark)
 ### Getting Started
 To use this code, clone this repository to your local machine using the following command:
 
